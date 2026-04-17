@@ -5,8 +5,7 @@
       "apiCF": "https://api.cf.eu10-004.hana.ondemand.com",
       "orgName": "proconarum-sandbox-system",
       "space": "Training",
-      "credentialsId": "cf-credentials-sandbox",
-      "mtaExtensionDescriptor": ""
+      "credentialsId": "cf-credentials-sandbox"
     }
   ],
   "sandbox_system": [
