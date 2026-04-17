@@ -1,0 +1,22 @@
+{
+  "develop_payasyougo": [
+    {
+      "display": "Dev PayAsYouGo",
+      "apiCF": "https://api.cf.eu10-004.hana.ondemand.com",
+      "orgName": "proconarum-sandbox-system",
+      "space": "Training",
+      "credentialsId": "cf-credentials-sandbox",
+      "mtaExtensionDescriptor": ""
+    }
+  ],
+  "sandbox_system": [
+    {
+      "display": "Sandbox Demo",
+      "apiCF": "https://api.cf.eu10-004.hana.ondemand.com",
+      "orgName": "proconarum-sandbox-system",
+      "space": "Training",
+      "credentialsId": "cf-credentials-sandbox",
+      "mtaExtensionDescriptor": "sandbox.mtaext"
+    }
+  ]
+}
